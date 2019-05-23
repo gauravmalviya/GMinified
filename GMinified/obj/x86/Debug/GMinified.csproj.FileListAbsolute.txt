@@ -1,0 +1,10 @@
+D:\GMinified\GMinified\bin\Debug\GMinified.exe
+D:\GMinified\GMinified\bin\Debug\GMinified.pdb
+D:\GMinified\GMinified\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\GMinified\GMinified\bin\Debug\EcmaScript.NET.modified.dll
+D:\GMinified\GMinified\obj\x86\Debug\GMinified.csprojResolveAssemblyReference.cache
+D:\GMinified\GMinified\obj\x86\Debug\GMinified.Properties.Resources.resources
+D:\GMinified\GMinified\obj\x86\Debug\GMinified.csproj.GenerateResource.Cache
+D:\GMinified\GMinified\obj\x86\Debug\GMinified.exe
+D:\GMinified\GMinified\obj\x86\Debug\GMinified.pdb
+D:\GMinified\GMinified\obj\x86\Debug\GMinified.frmMinify.resources
